@@ -1,31 +1,32 @@
-##Gambia 🇬🇲
-###World Heritage Sites
- - Kunta Kinteh Island and Related Sites
- - Stone Circles of Senegambia
+## Gambia 🇬🇲
 
-###Sights
--  Abuko Nature Reserve
--  Arch 22, Banjul
--  Makasutu Culture Forest (Wide Open Walls)
-- River Gambia National Park
+### World Heritage Sites
+- [ ] Kunta Kinteh Island and Related Sites
+- [ ] Stone Circles of Senegambia
 
-###Tentetive WHS
-- Historic Georgetown (29/04/2015)
-- Wassu Stone Circles Quarry Site (29/04/2015)
+### Sights
+- [ ] Abuko Nature Reserve
+- [ ] Arch 22, Banjul
+- [ ] Makasutu Culture Forest (Wide Open Walls)
+- [ ] River Gambia National Park
 
-###Islands
-- MacCarthy island
+### Tentetive WHS
+- [ ] Historic Georgetown (29/04/2015)
+- [ ] Wassu Stone Circles Quarry Site (29/04/2015)
 
-###XL
-- Gambia eastern end (Fatoto)
-- Gambia southwestern tip (Kartong)
+### Islands
+- [ ] MacCarthy island
 
-###Museum
-- Gambia National Museum, Banjul
+### XL
+- [ ] Gambia eastern end (Fatoto)
+- [ ] Gambia southwestern tip (Kartong)
 
-###Castles
-- Fort James
+### Museum
+- [ ] Gambia National Museum, Banjul
 
-###Churches
-- Cathedral of Our Lady of the Assumption, Banjul
-- King Fahad Mosque, Banjul
+### Castles
+- [ ] Fort James :star:
+
+### Churches
+- [ ] Cathedral of Our Lady of the Assumption, Banjul
+- [ ] King Fahad Mosque, Banjul

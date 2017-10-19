@@ -1,34 +1,35 @@
-##Mauritania
-###World Heritage Sites
- - Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata
- - Banc d'Arguin National Park
+## Mauritania 🇲🇷
 
-###Sights
- - Parc National Diawling
- -Port de Peche (Nouakchott seashore)
- -Reserve Satellite du Cap Blanc
- -Richat Structure
- -Terjit
+### World Heritage Sites
+- [ ] Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata
+- [ ] Banc d'Arguin National Park
 
-###Tentetive
-- Paysage culturel d'Azougui (14/06/2001)
-- Site archéologique de Kumbi Saleh (14/06/2001)
-- Site archéologique de Tegdaoust (14/06/2001)
+### Sights
+- [ ] Parc National Diawling
+- [ ] Port de Peche (Nouakchott seashore)
+- [ ] Reserve Satellite du Cap Blanc
+- [ ] Richat Structure
+- [ ] Terjit
 
-###Islands
-- Banc d'Arguin islands (Tidra, Kijji) National Park
+### Tentetive
+- [ ] Paysage culturel d'Azougui (14/06/2001)
+- [ ] Site archéologique de Kumbi Saleh (14/06/2001)
+- [ ] Site archéologique de Tegdaoust (14/06/2001)
 
-###XL
-- Chegga 'Triangle'
-- Hodh Ech Chargui province (east)
-- Nouadhibou
+### Islands
+- [ ] Banc d'Arguin islands (Tidra, Kijji) National Park
 
-###Transport
-- Mauritania Railway (Nouadhibou-Zouerat)
+### XL
+- [ ] Chegga 'Triangle'
+- [ ] Hodh Ech Chargui province (east)
+- [ ] Nouadhibou
 
-###Museum
-- National Museum of Mauritania
+### Transport
+- [ ] Mauritania Railway (Nouadhibou-Zouerat)
 
-###Churches
-- Chinguetti Mosque
-- Saudi Mosque, Nouakchott
+### Museum
+- [ ] National Museum of Mauritania
+
+### Churches
+- [ ] Chinguetti Mosque
+- [ ] Saudi Mosque, Nouakchott
