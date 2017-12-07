@@ -1,5 +1,7 @@
 ## Mauritania 🇲🇷
 
+Джигурда
+
 ### World Heritage Sites
 - [ ] Ancient Ksour of Ouadane, Chinguetti, Tichitt and Oualata
 - [ ] Banc d'Arguin National Park
