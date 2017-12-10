@@ -9,14 +9,14 @@
 | 4. :headphones: | Headphones + cable| Headphones | -- |
 | 5. :flashlight: | Headlamp| Headlamp + hand | -- |
 | 6. :musical_score: | USB Flash with music| USB Flash with music | -- |
-| 7. :camera: | ?? dash cam| ?? dash cam | -- |
+| 7. :camera: | ?? dash cam| ?? GoPro | -- |
 | 8. | Solar charger| ?? Solar charger | -- |
 | 9. | US <-> EU socket adapter| GB <-> EU socket adapter | -- |
 | 10.| Walkie talkie + charger | ?? Walkie talkie + charger | -- |
 
 ### Docs
-| Nic| Nick        | ShadOR           | Lisovik  |
-| ---| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ------------- |:-------------:| -----:|
 | 1. :passport_control: | Passport | Passport | -- |
 | 2. :framed_picture: | 4 photos (in case need for visa) | 4 photos (in case need for visa) | -- |
 | 3. :ledger: |  Personal Information List ('Fiches') x 30 | Personal Information List ('Fiches') x 30 | -- |
@@ -51,61 +51,61 @@
 ### First Aid :pill: :mushroom: :herb:
 |    | Nick        | ShadOR           | Lisovik  |
 |---:| ----------: |:----------------:| --------:|
-| 1. Sun lipstick | 1. Sun lipstick | -- |
-| 2. Patches | 2. Patches | -- |
-| 3. Painkillers | 3. Painkillers | -- |
-| 4. Antipyretic | -- | -- |
-| 5. Fever | -- | -- |
-| 6. Stomach | 6. Stomach | -- |
-| 7. Antibiotics | -- | -- |
+| 1. | Sun lipstick | Sun lipstick | -- |
+| 2. | Patches | Patches | -- |
+| 3. | Painkillers | Painkillers | -- |
+| 4. | Antipyretic | -- | -- |
+| 5. | Fever | -- | -- |
+| 6. | Stomach | Stomach | -- |
+| 7. | Antibiotics | -- | -- |
 
 ### Cloth
 |    | Nick        | ShadOR           | Lisovik  |
 |---:| ----------: |:----------------:| --------:|
-| 1. :baggage_claim: Osprey aether 70 backpack | 1. :baggage_claim: Osprey aether 70 backpack | -- |
-| 2. :baggage_claim: Thule EnRoute Escort 2 | 2. :baggage_claim: Thule EnRoute Escort 2 | -- |
-| 3. :tophat: Hat, Buff | 3. :tophat: Hat, Buff | -- |
-| 4. :footprints: Flip Flops/Crocs | 4. :footprints: Flip Flops/Crocs | -- |
-| 5. :athletic_shoe: Sneakers | 5. :athletic_shoe: Sneakers | -- |
-| 6. :shirt: T-shirts, shirt (marmot) | 6. :shirt: T-shirts, shirt (marmot) | -- |
-| 7. :jeans: Pants (polar, light) | 7. :jeans: Pants (polar, light) | -- |
-| 8. Fleece (Lafuma green vest, ) | 8. Fleece (Lafuma green vest, ) | -- |
-| 9. Light powder puff (Marmot lime) | 9. Light powder puff (Marmot lime) | -- |
-| 10. Wind stopper (North Face Blue) | 10. Wind stopper (North Face Blue) | -- |
-| 11. Light Gloves (For EU part) | 11. Light Gloves (For EU part) | -- |
-| 12. Socks | 12. Socks | -- |
-| 13. Underwear (+Warm) | 13. Underwear (+Warm) | -- |
-| 14. CareKit (Toothpaste, toothbrush, soap, shampoo, comb, clipper, floss, deodorant) | 14. CareKit (Toothpaste, toothbrush, soap, shampoo, comb, clipper, floss, deodorant) | -- |
+| 1. :baggage_claim: | Osprey aether 70 backpack | Osprey aether 70 backpack | -- |
+| 2. :baggage_claim: | Thule EnRoute Escort 2 | Thule EnRoute Escort 2 | -- |
+| 3. :tophat: | Hat, Buff | Hat, Buff | -- |
+| 4. :footprints: | Flip Flops/Crocs | Flip Flops/Crocs | -- |
+| 5. :athletic_shoe: | Sneakers | Sneakers | -- |
+| 6. :shirt: | T-shirts, shirt (marmot) | T-shirts, shirt (marmot) | -- |
+| 7. :jeans: | Pants (polar, light) | Pants (polar, light) | -- |
+| 8. | Fleece (Lafuma green vest, ) | Fleece (Lafuma green vest, ) | -- |
+| 9. | Light powder puff (Marmot lime) | Light powder puff (Marmot lime) | -- |
+| 10.| Wind stopper (North Face Blue) | Wind stopper (North Face Blue) | -- |
+| 11.| Light Gloves (For EU part) | Light Gloves (For EU part) | -- |
+| 12.| Socks | Socks | -- |
+| 13.| Underwear (+Warm) | Underwear (+Warm) | -- |
+| 14.| CareKit (Toothpaste, toothbrush, soap, shampoo, comb, clipper, floss, deodorant) | CareKit | -- |
 
 #### Running  :running_man:
 |    | Nick        | ShadOR           | Lisovik  |
 |---:| ----------: |:----------------:| --------:|
-| 1. Shoes | -- | -- |
-| 2. Pants/Shorts | -- | -- |
-| 4. North Face Red | -- | -- |
-| 5. T-shirt | -- | -- |
+| 1. | Shoes | -- | -- |
+| 2. | Pants/Shorts | -- | -- |
+| 4. | North Face Red | -- | -- |
+| 5. | T-shirt | -- | -- |
 
 ### To be bought in Spain
 |    | Nick        | ShadOR           | Lisovik  |
 |---:| ----------: |:----------------:| --------:|
-| 1. :wastebasket: Trash bags | 1. :wastebasket: Trash bags | -- |
-| 2. :sunrise: Sun cream | 2. :sunrise: Sun cream | -- |
-| 3. :hocho: Knife | 3. :hocho: Knife | -- |
-| 4. :toilet: Toilet paper | 4. :toilet: Toilet paper | -- |
-| 5. Duck tape | 5. Duck tape | -- |
-| 6. Mattresses | 6. ?? Mattresses | -- |
-| 7. Wipes | 7. Wipes (hand + ass) | -- |
+| 1. :wastebasket: | Trash bags | Trash bags | -- |
+| 2. :sunrise: | Sun cream | Sun cream | -- |
+| 3. :hocho: | Knife | Knife | -- |
+| 4. :toilet: | Toilet paper | Toilet paper | -- |
+| 5. | Duck tape | Duck tape | -- |
+| 6. | Mattresses | ?? Mattresses | -- |
+| 7. | Wipes | Wipes (hand + ass) | -- |
 
 ### Deeds
-|    | Nick        | ShadOR           | Lisovik  |
-|---:| ----------: |:----------------:| --------:|
-| 1. :world_map: Download mobile maps (Maps.me) | 1. :world_map: Download mobile maps (Maps.me, OsmAnd) | -- |
-| 2. :bank: Call to bank and whitelist the date and counties for cards | 2. :bank: Call to bank and whitelist the date and counties for cards | -- |
-| 3. Alcohol, hat for NY | 3. Alcohol, hat for NY | -- |
-| 4. Check-in for airplane | 4. Check-in for airplane | -- |
-| -- | 5. Gambia visa | -- |
-| -- | 6. La Manche ticket | -- |
-| -- | 7. Finish reading the book + filling this list | -- |
+|    | Nick        | ShadOR           |
+|---:| ----------: |:----------------:|
+| 1. :world_map: | Download mobile maps (Maps.me) | Download mobile maps (Maps.me, OsmAnd) |
+| 2. :bank: | Call to bank and whitelist the date and counties for cards | Call to bank and whitelist the date and counties for cards |
+| 3. | Alcohol, hat for NY | Alcohol, hat for NY |
+| 4. | Check-in for airplane | Check-in for airplane |
+| 5. | -- | Gambia visa |
+| 6. | -- | La Manche ticket |
+| 7. | -- | Finish reading the book + filling this list |
 
 ### For car
 1. Inverter
