@@ -1,5 +1,5 @@
 ## Items
- ### Technic
+### Technic
  
 |    | Nick        | ShadOR           | Lisovik  |
 |---:| ----------: |:----------------:| --------:|
@@ -15,22 +15,20 @@
 | 10.| Walkie talkie + charger | ?? Walkie talkie + charger | -- |
 
 ### Docs
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
-| 1. :passport_control: Passport | 1. :passport_control: Passport | -- |
-| 2. :framed_picture: 4 photos (in case need for visa) | 2. :framed_picture: 4 photos (in case need for visa) | -- |
-| 3. :ledger: Personal Information List ('Fiches') x 30 | 3. :ledger: Personal Information List ('Fiches') x 30 | -- |
-| 4. :closed_book: Med insurance | 4. :closed_book: Med insurance | -- |
-| 5. :notebook_with_decorative_cover: Yellow vaccination card | 5. :notebook_with_decorative_cover: Yellow vaccination card | -- |
-| 6. :airplane: Airplane tickets | 6. :airplane: Airplane tickets | -- |
-| 7. :ship: Ferry tickets to Morocco | 7. :ship: Ferry tickets to Morocco | -- |
-| 8. :closed_book: Car insurance | 8. :closed_book: Car insurance | -- |
-| 9. :closed_book: Car docs | 9. :closed_book: Car docs | -- |
-| 10. :closed_book: Driver license | 10. :closed_book: Driver license | -- |
-| 11. :hotel: Optional - hotels | 11. :hotel: Optional - hotels | -- |
-| 12. Important Phone Numbers List | 12. Important Phone Numbers List | -- |
-
-
+| Nic| Nick        | ShadOR           | Lisovik  |
+| ---| ------------- |:-------------:| -----:|
+| 1. :passport_control: | Passport | Passport | -- |
+| 2. :framed_picture: | 4 photos (in case need for visa) | 4 photos (in case need for visa) | -- |
+| 3. :ledger: |  Personal Information List ('Fiches') x 30 | Personal Information List ('Fiches') x 30 | -- |
+| 4. :closed_book: | Med insurance | Med insurance | -- |
+| 5. :notebook_with_decorative_cover: | Yellow vaccination card | Yellow vaccination card | -- |
+| 6. :airplane: | Airplane tickets | Airplane tickets | -- |
+| 7. :ship: | Ferry tickets to Morocco | Ferry tickets to Morocco | -- |
+| 8. :closed_book: | Car insurance | Car insurance | -- |
+| 9. :closed_book: | Car docs | Car docs | -- |
+| 10. :closed_book: | Driver license | Driver license | -- |
+| 11. :hotel: | Optional - hotels | Рotels | -- |
+| 12. | Important Phone Numbers List | Important Phone Numbers List | -- |
 
 ### Stuff
 |    | Nick        | ShadOR           | Lisovik  |
@@ -40,7 +38,7 @@
 | 3. :green_book: | Dakar Challenge Book | Dakar Challenge Book | -- |
 | 4. :orange_book: | Africa healthy travel by Lonely planet Book | ?? Africa healthy travel by Lonely planet Book | -- |
 | 5. :dark_sunglasses: | Sunglasses | Sunglasses | -- |
-| 6. :watch: | Watch | 6. :watch: Watch + charger | -- |
+| 6. :watch: | Watch | Watch + charger | -- |
 | 7. :droplet: | Water flask | ?? Water flask | -- |
 | 8. :green_salad: | Food flask | ?? Food flask | -- |
 | 9. :fork_and_knife: | Spork | Spork | -- |
