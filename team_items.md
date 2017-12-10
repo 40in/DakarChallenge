@@ -1,18 +1,18 @@
 ## Items
  ### Technic
  
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
-| 1. :computer: Laptop + charger| -- | TODO |
-| 2. :iphone: Phone + charger| 2. :iphone: Phone + charger | -- |
-| 3. :battery: Powerbank + cable| 3. :battery: Powerbank + cable | -- |
-| 4. :headphones: Headphones + cable| 4. :headphones: Headphones | -- |
-| 5. :flashlight: Headlamp| 5. :flashlight: Headlamp + hand | -- |
-| 6. :musical_score: USB Flash with music| 6. :musical_score: USB Flash with music | -- |
-| 7. :camera:?? dash cam| 7. :camera: ?? dash cam | -- |
-| 8. Solar charger| 8. ?? Solar charger | -- |
-| 9. US <-> EU socket adapter| 9. GB <-> EU socket adapter | -- |
-| 10. Walkie talkie + charger | ?? Walkie talkie + charger | -- |
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
+| 1. :computer: | Laptop + charger| -- | TODO |
+| 2. :iphone: | Phone + charger| Phone + charger | -- |
+| 3. :battery: | Powerbank + cable| Powerbank + cable | -- |
+| 4. :headphones: | Headphones + cable| Headphones | -- |
+| 5. :flashlight: | Headlamp| Headlamp + hand | -- |
+| 6. :musical_score: | USB Flash with music| USB Flash with music | -- |
+| 7. :camera: | ?? dash cam| ?? dash cam | -- |
+| 8. | Solar charger| ?? Solar charger | -- |
+| 9. | US <-> EU socket adapter| GB <-> EU socket adapter | -- |
+| 10.| Walkie talkie + charger | ?? Walkie talkie + charger | -- |
 
 ### Docs
 | Nick        | ShadOR           | Lisovik  |
@@ -33,26 +33,26 @@
 
 
 ### Stuff
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
-| 1. :moneybag: Money (:euro:, :dollar:) | 1. :moneybag: Money (:euro:, :dollar:) | -- |
-| 2. :credit_card: Credit cards | 2. :credit_card: Credit cards | -- |
-| 3. :green_book: Dakar Challenge Book | 3. :green_book: Dakar Challenge Book | -- |
-| 4. :orange_book: Africa healthy travel by Lonely planet Book | 4. :orange_book: ?? Africa healthy travel by Lonely planet Book | -- |
-| 5. :dark_sunglasses: Sunglasses | 5. :dark_sunglasses: Sunglasses | -- |
-| 6. :watch: Watch | 6. :watch: Watch + charger | -- |
-| 7. :droplet: Water flask | 7. :droplet: ?? Water flask | -- |
-| 8. :green_salad: Food flask | 8. :green_salad: ?? Food flask | -- |
-| 9. :fork_and_knife: Spork | 9. :fork_and_knife: Spork | -- |
-| 10. :sleeping_bed: Sleeping bag + Travel pillow | 10. :sleeping_bed: Sleeping bag + Travel pillow | -- |
-| 12. :selfie: Selfie stick | 12. :selfie: ?? Selfie stick | -- |
-| 13. :notebook: Notebook | 13. :notebook: Notebook | -- |
-| 14. :pencil2: Pencil | 14. :pencil2: Pencil | -- |
-| 15. :key: Keys (home, car) | 15. :key: Keys (home) | -- |
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
+| 1. :moneybag: | Money (:euro:, :dollar:) | Money (:euro:, :dollar:) | -- |
+| 2. :credit_card: | Credit cards | Credit cards | -- |
+| 3. :green_book: | Dakar Challenge Book | Dakar Challenge Book | -- |
+| 4. :orange_book: | Africa healthy travel by Lonely planet Book | ?? Africa healthy travel by Lonely planet Book | -- |
+| 5. :dark_sunglasses: | Sunglasses | Sunglasses | -- |
+| 6. :watch: | Watch | 6. :watch: Watch + charger | -- |
+| 7. :droplet: | Water flask | ?? Water flask | -- |
+| 8. :green_salad: | Food flask | ?? Food flask | -- |
+| 9. :fork_and_knife: | Spork | Spork | -- |
+| 10. :sleeping_bed: | Sleeping bag + Travel pillow | Sleeping bag + Travel pillow | -- |
+| 11. :selfie: | Selfie stick | ?? Selfie stick | -- |
+| 12. :notebook: | Notebook | Notebook | -- |
+| 13. :pencil2: | Pencil | Pencil | -- |
+| 14. :key: | Keys (home, car) | Keys (home) | -- |
 
 ### First Aid :pill: :mushroom: :herb:
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
 | 1. Sun lipstick | 1. Sun lipstick | -- |
 | 2. Patches | 2. Patches | -- |
 | 3. Painkillers | 3. Painkillers | -- |
@@ -62,8 +62,8 @@
 | 7. Antibiotics | -- | -- |
 
 ### Cloth
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
 | 1. :baggage_claim: Osprey aether 70 backpack | 1. :baggage_claim: Osprey aether 70 backpack | -- |
 | 2. :baggage_claim: Thule EnRoute Escort 2 | 2. :baggage_claim: Thule EnRoute Escort 2 | -- |
 | 3. :tophat: Hat, Buff | 3. :tophat: Hat, Buff | -- |
@@ -80,16 +80,16 @@
 | 14. CareKit (Toothpaste, toothbrush, soap, shampoo, comb, clipper, floss, deodorant) | 14. CareKit (Toothpaste, toothbrush, soap, shampoo, comb, clipper, floss, deodorant) | -- |
 
 #### Running  :running_man:
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
 | 1. Shoes | -- | -- |
 | 2. Pants/Shorts | -- | -- |
 | 4. North Face Red | -- | -- |
 | 5. T-shirt | -- | -- |
 
 ### To be bought in Spain
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
 | 1. :wastebasket: Trash bags | 1. :wastebasket: Trash bags | -- |
 | 2. :sunrise: Sun cream | 2. :sunrise: Sun cream | -- |
 | 3. :hocho: Knife | 3. :hocho: Knife | -- |
@@ -99,8 +99,8 @@
 | 7. Wipes | 7. Wipes (hand + ass) | -- |
 
 ### Deeds
-| Nick        | ShadOR           | Lisovik  |
-| ------------- |:-------------:| -----:|
+|    | Nick        | ShadOR           | Lisovik  |
+|---:| ----------: |:----------------:| --------:|
 | 1. :world_map: Download mobile maps (Maps.me) | 1. :world_map: Download mobile maps (Maps.me, OsmAnd) | -- |
 | 2. :bank: Call to bank and whitelist the date and counties for cards | 2. :bank: Call to bank and whitelist the date and counties for cards | -- |
 | 3. Alcohol, hat for NY | 3. Alcohol, hat for NY | -- |
