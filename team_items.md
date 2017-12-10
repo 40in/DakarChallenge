@@ -1,4 +1,23 @@
 ## Items
+| Nick        | ShadOR           | Lisovik  |
+| ------------- |:-------------:| -----:|
+| ### Technic|
+| ------------- |:-------------:| -----:|
+| 1. :computer: Laptop + charger| 1. :computer: Laptop + charger | TODO |
+| 2. :iphone: Phone + charger| 2. :iphone: Phone + charger | -- |
+| 3. :battery: Powerbank + cable| 3. :battery: Powerbank + cable | -- |
+| 4. :headphones: Headphones + cable| 4. :headphones: Headphones + cable | -- |
+| 5. :flashlight: Headlamp| 5. :flashlight: Headlamp | -- |
+| 6. :musical_score: USB Flash with music| 6. :musical_score: USB Flash with music | -- |
+| 7. :camera:?? dash cam| 7. :camera:?? dash cam | -- |
+| 8. Solar charger| 8. Solar charger | -- |
+| 9. US <-> EU socket adapter| 9. US <-> EU socket adapter | -- |
+| 10. Walkie talkie + charger      | right-aligned | TODO |
+| ------------- |:-------------:| -----:|
+
+
+
+
 ### Technic
 1. :computer: Laptop + charger
 2. :iphone: Phone + charger
