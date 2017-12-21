@@ -42,7 +42,9 @@
 ### XL
 - [ ] Cape Juby/Tarfaya
 - [ ] Figuig province extreme east ([Bouarfa](https://en.wikipedia.org/wiki/Bouarfa,_Morocco))
-- [ ] [Ifni](https://en.wikipedia.org/wiki/Ifni)### Transport
+- [ ] [Ifni](https://en.wikipedia.org/wiki/Ifni)
+
+### Transport
 - [ ] [Casablanca Trams](https://en.wikipedia.org/wiki/Casablanca_Tramway)
 - [ ] [Casablanca Voyageurs Station](https://en.wikipedia.org/wiki/Casa-Voyageurs_railway_station)
 - [ ] [Morocco Intercity Railway Experience](https://en.wikipedia.org/wiki/Kenitra%E2%80%93Tangier_high-speed_rail_line)
@@ -62,7 +64,9 @@
 
 ### Castles
 - [ ] [Dar al-Makhzen](https://en.wikipedia.org/wiki/Dar_al-Makhzen_(Rabat))
-- [ ] [Kasbah of the Glaouis](https://en.wikipedia.org/wiki/Telouet_Kasbah)### Churches
+- [ ] [Kasbah of the Glaouis](https://en.wikipedia.org/wiki/Telouet_Kasbah)
+
+### Churches
 - [ ] [Hassan II Mosque](https://en.wikipedia.org/wiki/Hassan_II_Mosque), Casablanca
 - [ ] [Hassan Tower](https://en.wikipedia.org/wiki/Hassan_Tower), Rabat
 - [ ] [Karaouine Mosque](https://en.wikipedia.org/wiki/University_of_Al_Quaraouiyine), Fez
